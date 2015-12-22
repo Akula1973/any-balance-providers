@@ -6,9 +6,9 @@
   <description> 
     Получает баланс для оператора TravelSIM (http://travelsim.ua/)
 
-    Информация берется из личного кабинета клиента (http://my.travelsim.ua/billing/)
+    Информация берется из личного кабинета клиента (http://my.travelsim.ua/billing_old/)
   </description>
-  <author>AnyBalance Team &lt;info@anybalance.ru&gt;</author>
+  <author>Sergey Meshkov &lt;sergey.v.meshkov@gmail.com&gt;</author>
   <files>
     <icon>icon.png</icon>
     <preferences>preferences.xml</preferences>
